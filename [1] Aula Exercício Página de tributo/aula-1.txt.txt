@@ -1,0 +1,4 @@
+Fazer um exercício da Página de tributo com HTML e CSS.
+Colocar títulos, parágrafos, imagens e estilizar a páginas com o css.
+
+

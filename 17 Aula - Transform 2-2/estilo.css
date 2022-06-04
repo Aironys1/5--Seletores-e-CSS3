@@ -1,0 +1,23 @@
+div{
+    background-color: rgb(211, 136, 24);
+    width: 200px;
+    height: 200px;
+    transform: scale(1, 1);
+    margin-left:50px;
+}
+
+.div2{
+    background-color: rgb(24, 58, 211);
+    width: 200px;
+    height: 200px;
+    transform: rotate(30deg);
+   margin: 50px;
+}
+
+.div3{
+    background-color: rgb(23, 121, 10);
+    width: 100px;
+    height: 100px;
+    transform: skew(20deg, 20deg);
+    margin: 50px;
+}

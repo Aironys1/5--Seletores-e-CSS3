@@ -1,0 +1,26 @@
+div{
+    color:white;
+    font-weight:bold;
+    font-size:25px;
+
+}
+
+.balao{
+    background-color: #135206;
+    display: inline-block;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 50px;
+}
+.balao::after{
+    content: '';
+    display: block;
+    position: absolute;
+    margin-top:25px;
+    border: 25px solid;
+    border-color: #135206 transparent transparent transparent;
+
+}
+p{
+    font-size:20px;
+}

@@ -1,0 +1,22 @@
+div{
+    background-color: rgb(28, 28, 180);
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+}
+
+div:first-child {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+div:last-child{
+   border-bottom: 20px;
+}
+
+div{
+    margin: 10px;
+    border-bottom: 20px !important;
+}
+
+

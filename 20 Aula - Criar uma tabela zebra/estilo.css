@@ -1,0 +1,34 @@
+table{
+    background-color:rgb(7, 6, 68);
+    margin: auto;
+   
+}
+
+h1{
+    text-align:center;
+}
+
+thead td{
+    background-color:rgb(55, 38, 216);
+    color: aliceblue;
+    text-align:center;
+}
+
+tbody tr{
+    color: aliceblue;
+    font-size:25px;
+}
+
+table td{
+    border: 2px solid burlywood;
+    padding: 10px;
+}
+tr:nth-child(2n){
+    color: rgb(184, 25, 25);
+    background-color:aliceblue;
+    font-weight:bold;
+}
+tfoot td{
+    background-color: rgb(80, 77, 77);
+    height:25px;
+}

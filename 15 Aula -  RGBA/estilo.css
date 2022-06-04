@@ -1,0 +1,41 @@
+body{
+    background-image: url(img/fundo.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+div{
+    background-color:rgba(95, 8, 117, 0.288);
+    color: white;
+    text-align: center;
+    padding-top:30px;
+    position:fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    font-size:40px;
+
+}
+
+h1{
+    width: 400px;
+    height: 400px;
+    background-image: url(img/fundo2.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+    position: fixed;
+    bottom: 0;
+
+}
+h2{
+    text-align: center;
+    margin:110px;
+    color: rgb(231, 14, 14);
+    font-size: 40px;
+    font-family: fantasy;
+}

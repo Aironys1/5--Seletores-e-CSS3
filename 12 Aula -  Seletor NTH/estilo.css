@@ -1,0 +1,6 @@
+ div:nth-child(5){
+    background-color: aqua;
+}
+ div:nth-last-child(6){
+    background-color: rgb(101, 69, 189);
+}

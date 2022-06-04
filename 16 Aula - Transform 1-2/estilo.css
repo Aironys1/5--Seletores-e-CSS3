@@ -1,0 +1,7 @@
+div{
+    background-color: rgb(211, 136, 24);
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    transform: scale(1, 1);
+}

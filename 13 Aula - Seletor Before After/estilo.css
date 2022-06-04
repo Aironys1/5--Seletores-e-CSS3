@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+
+span::before{
+    content:"-->";
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 20px;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-size:20px;
+}
+
+h2{
+    padding-top:20px;
+}
+h2::before{
+    content:"R$:";
+    background-color:rgb(255, 0, 0);
+    color: aliceblue;
+    padding: 10px;
+}
+
+h3{
+    padding-top:20px;
+    padding-right:50px;
+}
+
+h3::before{
+    content:"#OK";
+    background-color:rgb(63, 61, 218);
+    color: aliceblue;
+    padding: 10px;
+    
+}

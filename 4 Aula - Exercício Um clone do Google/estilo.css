@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    height:100px;
+}
+body{
+    background-image: url('img/fundo-google.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-attachment: fixed;
+    overflow-x: hidden;
+    
+}
+
+
+
+.menu{
+    display:flex;
+    flex-direction: row;
+    justify-content: end;
+    gap: 15px;
+    align-items: center;
+}
+
+.menu ul{
+    list-style: none;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+.menu img{
+    width:40px;
+    border-radius:100%;
+    margin-right: 20px;
+
+}
+
+.container{
+    display:block;
+    justify-content: center;
+
+}
+
+.container img{
+    display:block;
+    margin-top: 200px !important;
+    margin: 0 auto;
+
+}
+input{
+    display:block;
+    margin: 0 auto;
+    margin-top:20px;
+    border-radius:20px;
+    width:600px;
+    height:40px;
+    text-align: center;
+    border: 0;
+    outline: 0;
+    
+}
+
+.menu-app {
+    border-radius:1px !important;
+    padding: 10px;
+}
+
+footer {
+    background-color:#f2f2f2;
+    border-top: 2px solid #e4e4e4;
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    height:70px;
+}
+
+footer ul li{
+    
+    display:inline;
+    color: #666666 ;
+    font-size: 14px;
+    padding: 12px;
+    cursor: pointer;  
+}
+
+footer ul li:hover{
+    background-color: #a7a3a323;
+    border-radius: 10px;
+
+}
+
+.footer-esquerda{
+    float: left;
+    padding-top:20px;
+    margin-left: 30px;
+    
+}
+
+
+.footer-direita{
+    float: right;
+    padding-top:20px;
+    margin-right: 30px;
+
+}

@@ -1,0 +1,81 @@
+@media (max-width:599px) {
+    h1{
+        font-size:25px;
+        text-align: center;
+    }
+
+    h3{
+        font-size:15px !important;
+    }
+
+    p{
+        margin:10px;
+        width: 100%;
+        font-size:14px;
+    }
+
+    .sessao-galeria{
+        
+    }
+    .sessao-galeria img{
+        width: 250px !important;
+        display: block !important;
+
+        
+        
+    }
+    .sessao-galeria h3{
+        font-size:14px !important;
+    }
+
+    
+    .arte-logo{
+        width:250px !important;
+        margin-bottom:180px;
+        width: 100px !important;
+
+    }
+
+    .logo{
+        margin-bottom: 20px;
+        width: 100px !important;
+        margin-right:10px;
+    }
+
+    .rodape a{
+    }
+    
+    .rodape a:hover{
+        color:#e2bf7f;
+    
+    }
+    
+    .rodape h5{
+        color:#ffffff;
+        font-size:10px;
+    }
+
+}
+
+
+
+
+@media (min-width:600px) and (max-width:1100px) {
+    h1{
+        font-size:30px;
+        text-align: center;
+    }
+
+    
+    .arte-logo{
+        width:250px !important;
+        margin-bottom:180px;
+    }
+
+    .logo{
+        margin-bottom: 20px;
+    }
+
+   
+
+}

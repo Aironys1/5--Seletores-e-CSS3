@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: #fff;
+    position:fixed;
+    right: 0;
+    margin-right:100px;
+}
+div{
+    width:700px;
+    height: 100px;
+    background-color: blue;
+    transform: rotate(-40deg);
+    position: fixed;
+    left:-200px;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    font-size:25px;
+    border-radius:20px;
+    border: 10px solid rgb(124, 175, 233);
+    
+}
+
+body {
+    background-color:royalblue;
+    border: 10px solid white;
+}

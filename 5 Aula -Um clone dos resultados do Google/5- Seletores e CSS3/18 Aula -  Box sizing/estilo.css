@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color:#456985;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-between;
+    height:100vh;color: rgb(189, 41, 15);
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.item{
+    background-color: rgb(30, 68, 104);
+    margin: 50px;
+    font-weight: bold;
+    font-size: 35px;
+    color: aliceblue;
+}
+
+div{
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 300px;
+    border: 30px solid #1a364b;
+    padding: 50px;
+
+}

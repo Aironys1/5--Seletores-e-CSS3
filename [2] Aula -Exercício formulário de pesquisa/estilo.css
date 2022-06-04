@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+}
+
+h1{
+    text-align: center;
+    font-size:35px;
+    margin: 20px;
+    text-transform: uppercase;
+    color: rgb(160, 150, 150);
+
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(32, 88, 172);
+}
+
+div{
+    text-align: center;
+    font-weight: bold;
+    margin: 10px;
+}
+span{
+    color: royalblue;
+    display: block;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 20px;
+
+}
+img{width: 500px;}
+
+.formularios{
+    display: block;
+    margin: 20px;
+}
+.formularios .item{
+   border-top: 1px solid red;
+   padding-top: 20px;
+}
+

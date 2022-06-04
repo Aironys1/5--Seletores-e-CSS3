@@ -1,0 +1,62 @@
+@media (max-width:600px) {
+    header {
+        display: block;
+    }
+
+     header img{
+        width:200px !important;
+        display: block;
+        margin: auto;
+        margin-left: 70px;
+    }
+
+    ul {
+        display: block;
+        
+    }
+
+    ul li{
+        margin: 10px;
+    }
+
+    .procurar {
+        margin-left: 132px;
+    }
+
+   
+    .procurar img{
+        width: 30px !important;
+    }
+
+    .titulo-item h1{
+        font-size:20px;
+        margin-top:0px;
+        width:300px;
+        margin-left: -30px;
+    }
+    .titulo-item  img{
+        font-size:20px;
+        margin-top:20px;
+        width:300px;
+        margin-left: -30px;
+    }
+
+    footer .contato {
+        color: aliceblue;
+        padding: 20px;
+        display: block;
+        margin: auto;
+        background-color: black;
+    }
+
+    section img {
+        width:300px;
+        border-radius: 20px;
+        border: 1px solid white;
+    }
+
+    
+
+
+}
+
